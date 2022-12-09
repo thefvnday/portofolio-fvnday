@@ -143,7 +143,7 @@
                             <span class="qualification__subtile">Freelancer-Surakarta</span>
                             <div class="qualification__calender">
                                 <i class="uil uil-calender-alt"></i>
-                                2017-present
+                                Agustus 2022-present
                             </div>
                         </div>
                     </div>

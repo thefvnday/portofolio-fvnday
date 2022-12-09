@@ -8,7 +8,7 @@
             <div class="services__content">
                 <div>
                     <i class="uil uil-web-grid services__icon"></i>
-                    <h3 class="services__title">Ui/Ux <br> Designer</h3>
+                    <h3 class="services__title">Mobile <br> Developer</h3>
                 </div>
 
                 <span class="button button--flex button--small button--link services__button">
@@ -18,10 +18,28 @@
 
                 <div class="services__modal">
                     <div class="services__modal-content">
-                        <h4 class="services__modal-title">Ui/Ux <br> Designer</h4>
+                        <h4 class="services__modal-title">Mobile <br> Developer</h4>
                         <i class="uil uil-times services__modal-close"></i>
-
                         <ul class="services__modal-services grid">
+                            <li class="services__modal-service">
+                                <i class="uil uil-check-circle services__modal-icon"></i>
+                                <p>Implement widget like a design</p>
+                            </li>
+                            <li class="services__modal-service">
+                                <i class="uil uil-check-circle services__modal-icon"></i>
+                                <p>Test mobile for usability.</p>
+                            </li>
+                            <li class="services__modal-service">
+                                <i class="uil uil-check-circle services__modal-icon"></i>
+                                <p>Operation a API between server.</p>
+                            </li>
+                            <li class="services__modal-service">
+                                <i class="uil uil-check-circle services__modal-icon"></i>
+                                <p>maintenance features.</p>
+                            </li>
+                        </ul>
+                        
+                        <!-- <ul class="services__modal-services grid">
                             <li class="services__modal-service">
                                 <i class="uil uil-check-circle services__modal-icon"></i>
                                 <p>I develop the user interface.</p>
@@ -38,7 +56,7 @@
                                 <i class="uil uil-check-circle services__modal-icon"></i>
                                 <p>I position your company brand.</p>
                             </li>
-                        </ul>
+                        </ul> -->
                     </div>
                 </div>
             </div>
@@ -118,7 +136,7 @@
             </div>
 
             <!--==================== SERVICES 4 ====================-->
-            <div class="services__content">
+            <!-- <div class="services__content">
                 <div>
                     <i class="uil uil-pen services__icon"></i>
                     <h3 class="services__title">Branding <br> Designer</h3>
@@ -146,7 +164,7 @@
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
 
